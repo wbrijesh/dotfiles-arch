@@ -1,0 +1,10 @@
+# GIMP action-history
+
+(history-item "file-save" 3)
+(history-item "tools-crop" 1)
+(history-item "file-quit" 0)
+(history-item "tools-rotate" 0)
+(history-item "file-export-as" 0)
+(history-item "help-help" 1)
+
+# end of action-history
